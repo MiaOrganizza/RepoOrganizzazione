@@ -7,6 +7,11 @@ using System.Threading.Tasks;
 namespace EsPag85N31Project
 {
     /* MIA modifica  */
+
+    /* Ho aggiunto un po' di modifiche io ora
+     * Dimmi che ne pansi.
+     * Grazie
+     */
     class Program
     {
         static void Main(string[] args)
