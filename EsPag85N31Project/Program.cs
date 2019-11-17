@@ -20,6 +20,10 @@ namespace EsPag85N31Project
 
         static void Main(string[] args)
         {
+            /* aggiunta opzione su Github in modo che cancelli in automatico il ramo
+             * quando viene fatto il merge dello stesso
+             */
+
             int r, c;
             string s;
             do
