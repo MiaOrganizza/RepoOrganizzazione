@@ -27,6 +27,11 @@ namespace EsPag85N31Project
             /* Modifiche da Fenice */
             int r, c;
             string s;
+
+            /* inserisco modifiche per
+             * documentazione
+             */
+
             do
             {
                 Console.Write("Inserisci il numero di righe: ");
