@@ -15,8 +15,6 @@ namespace EsPag85N31Project
         
     class Program
     {
-        /* altre modifiche
-         */
 
         static void Main(string[] args)
         {
